@@ -6,19 +6,21 @@
         "title": "The Mystery of the Lost Key",
         "author": "John Smith",
         "author_image":"https://i.ibb.co/n7RKP0r/boy1.png",
-        "Posted Date": "September 5, 2023",
+        "posted": "September 5, 2023",
         "reading_time": 30,
-        "Hashtag": "#MysteryNovel"
+        "Hashtag": "#MysteryNovel",
+        "btn": "Mark as read"
     },
     {
         "Id": 67890,
         "cover": "https://i.ibb.co/SxmXFtq/2.png",
         "title": "A Journey Through Time",
         "author": "Jane Doe",
-        "author_image": "https://i.ibb.co/n7RKP0r/boy1.png",
-        "Posted Date": "August 20, 2023",
+        "author_image": "https://i.ibb.co/wM4NJ2Q/girl1.jpg",
+        "posted": "August 20, 2023",
         "reading_time": 45,
-        "Hashtag": "#TimeTravel"
+        "Hashtag": "#TimeTravel",
+        "btn": "Mark as read"
     },
     {
         "Id": 54321,
@@ -26,19 +28,21 @@
         "title": "The Art of Cooking",
         "author": "Chef Michael",
         "author_image": "https://i.ibb.co/n7RKP0r/boy1.png",
-        "Posted Date": "July 12, 2023",
+        "posted": "July 12, 2023",
         "reading_time": 60,
-        "Hashtag": "#Cookbook"
+        "Hashtag": "#Cookbook",
+        "btn": "Mark as read"
     },
     {
         "Id": 98765,
         "cover": "https://i.ibb.co/SdkHY4j/4.jpg",
         "title": "Inspirational Stories",
         "author": "Sarah Johnson",
-        "author_image": "https://i.ibb.co/n7RKP0r/boy1.png",
-        "Posted Date": "June 3, 2023",
+        "author_image": "https://i.ibb.co/wM4NJ2Q/girl1.jpg",
+        "posted": "June 3, 2023",
         "reading_time": 20,
-        "Hashtag": "#Inspiration"
+        "Hashtag": "#Inspiration",
+        "btn": "Mark as read"
     }
   
 ]
